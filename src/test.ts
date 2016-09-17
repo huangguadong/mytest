@@ -1,2 +1,3 @@
 let names: string = "1";
-let names: string = "2";
+let namess: string = "2";
+let namesss: string = "3";
